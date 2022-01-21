@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/thanaracs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanaracs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanaracs&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanaracs&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanaracs&layout=compact&langs_count=16&theme=aura"/>
 </div>
   <div style="display: inline-block"><br>
   <img align="center" alt="Thai.java" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
