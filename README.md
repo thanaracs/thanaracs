@@ -5,6 +5,8 @@
 ### Oii, eu sou a Thainara Carvalho 
 
 - 🔭 Acadêmica de Sistemas para Internet
+- 🌱 Programadora Java
+- 🌱 Estudando Spring, Spring Boot, JPA e MVC
 - 🌱 Estudando javascript
 - 😄 Pronouns: ela/dela
  
