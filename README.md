@@ -6,8 +6,10 @@
 
 - 🔭 Acadêmica de Sistemas para Internet
 - 🌱 Programadora Java
-- 🌱 Estudando Spring, Spring Boot, JPA e MVC
-- 🌱 Estudando javascript
+- 🌱 javascript
+- 🌱 Spring, Spring Boot, JPA e MVC
+- 🌱 Estudando Ruby
+- 🌱 Estudando Android
 - 😄 Pronouns: ela/dela
  
 </div>
