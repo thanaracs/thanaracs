@@ -12,6 +12,10 @@
 - 🌱 Estudando Android
 - 😄 Pronouns: ela/dela
  
+ system.out.println("Seja");
+ console.log("Bem")
+ puts "Vindo(a)"
+ 
 </div>
 <br><br><br>
 <!-- <div>
