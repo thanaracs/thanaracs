@@ -5,7 +5,7 @@
 ### Oii, eu sou a Thainara Carvalho 
 
 - 🔭 Acadêmica de Sistemas para Internet
-- 🌱 Programadora Java
+- 🌱 Java
 - 🌱 javascript
 - 🌱 Spring, Spring Boot, JPA e MVC
 - 🌱 Estudando Ruby
