@@ -16,7 +16,7 @@
 ##### console.log("bem")
 ##### puts "vindo(a)!"
  
-</div>
+<!--</div>
 <br><br><br>
 <div align="center">
   <a href="https://github.com/thanaracs">
