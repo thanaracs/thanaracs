@@ -1,44 +1,29 @@
+# <i>@Thanaracs</i>
+<div style="position:relative;width: 500px; top:100px">
+Olá, meu nome é Thainara Carvalho e atualmente trabalho com a linguagem e framework Ruby on Rails, mas também tenho conhecimento em Java e Javascript.
 
-<div align="justify-all">
-   <img align="justify-all" alt="Thai-gif" height="130" style="border-radius:50px;" src="https://media.discordapp.net/attachments/892551151218741258/934127295059349504/Design_sem_nome_1.gif?width=473&height=473">
-  
-### Oii, eu sou a Thainara Carvalho 
-
-- 🔭 Acadêmica de Sistemas para Internet
-- 🌱 Java
-- 🌱 javascript
-- 🌱 Spring, Spring Boot, JPA e MVC
-- 🌱 Estudando Ruby
-- 🌱 Estudando Android
-- 😄 Pronouns: ela/dela
- 
-##### system.out.println("Seja");
-##### console.log("bem")
-##### puts "vindo(a)!"
- 
-<!--</div>
-<br><br><br>
-<div align="center">
-  <a href="https://github.com/thanaracs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanaracs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanaracs&layout=compact&langs_count=7&theme=dracula"/>
+* Acadêmica de Analise e Desenvolvimento de Sistemas (6/6)
+* Acadêmica de Sistemas para Internet (5/6)
 </div>
 
-<!-- <div>
-  <a href="https://github.com/thanaracs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanaracs&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanaracs&layout=compact&langs_count=16&theme=aura"/>
-     
-</div> -->
-</div>
-  <div style="display: inline-block"><br>
-  <img align="center" alt="Thai.java" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Thai.css3" height="30" widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img align="center" alt="Thai.html5" height="30" widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" alt="Thai.bootstrap" height="30" widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Thai.javascript" height="30" widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><br>
-  <!--<img align="right" alt="eu.gif" scr="https://media.discordapp.net/attachments/892551151218741258/934127295059349504/Design_sem_nome_1.gif?width=473&height=473"/>-->
+<div style="position: relative; left: 70%">
+<img align="justify-all" alt="Thai-gif" height="130" style="border-radius:50px;" src="https://media.tenor.com/t-eo-_Jkw70AAAAC/olhos-brilhando-blossom.gif?width=473&height=473">
 </div>
 
- ![Snake animation](https://github.com/thanaracs/thanaracs/blob/output/github-contribution-grid-snake.svg)
 
+## Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=EEAEEE)](https://www.linkedin.com/in/thainara-carvalho-434550193/)
+
+<div style="position:relative;left:15%;top:-50px">
+
+[![GitHub](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=EEAEEE)](https://github.com/thanaracs)
+</div>
+
+## Habilidades
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thanaracs&bg_color=EEAEEE&border_color=000&title_color=000&text_color=000)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanaracs&theme=transparent&bg_color=000E&border_color=EEAEEE&show_icons=true&icon_color=EEAEEE&title_color=EEAEEE&text_color=EEAEEE&hide_title=true)
