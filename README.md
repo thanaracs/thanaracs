@@ -1,8 +1,9 @@
 # <i>@Thanaracs</i>
 <div style="position:relative;width: 500px; top:100px">
-Olá, meu nome é Thainara Carvalho e atualmente trabalho com a linguagem e framework Ruby on Rails, mas também tenho conhecimento em Java e Javascript.
+Olá, meu nome é Thainara Carvalho e sou desenvolvedora web. Meus maiores conhecimentos em linguagens são em: Ruby on Rails e Javascript, mas cheguei a desenvolver com Python, Java, Flutter e React.
 
-* Acadêmica de Analise e Desenvolvimento de Sistemas (6/6)
+
+* Graduada em Analise e Desenvolvimento de Sistemas (6/6)
 * Acadêmica de Sistemas para Internet (5/6)
 </div>
 
